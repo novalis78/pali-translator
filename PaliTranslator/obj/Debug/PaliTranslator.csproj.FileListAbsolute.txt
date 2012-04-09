@@ -1,0 +1,13 @@
+C:\Documents and Settings\llopin\Local Settings\Application Data\Temporary Projects\PaliTranslator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\llopin\Local Settings\Application Data\Temporary Projects\PaliTranslator\obj\Debug\PaliTranslator.Properties.Resources.resources
+C:\Documents and Settings\llopin\Local Settings\Application Data\Temporary Projects\PaliTranslator\obj\Debug\PaliTranslator.csproj.GenerateResource.Cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\obj\Debug\PaliTranslator.Properties.Resources.resources
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\obj\Debug\PaliTranslator.csproj.GenerateResource.Cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\bin\Debug\PaliTranslator.exe
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\bin\Debug\PaliTranslator.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\bin\Debug\CST.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\obj\Debug\PaliTranslator.exe
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\obj\Debug\PaliTranslator.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\obj\Debug\PaliTranslator.Form2.resources
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslator\PaliTranslator\bin\Debug\MultiLineListBox.dll
